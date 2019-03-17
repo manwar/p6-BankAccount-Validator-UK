@@ -1,0 +1,20 @@
+{
+  "authors" : [
+    "Mohammad S Anwar"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "Interface to validate UK bank account.",
+  "license" : "Artistic-2.0",
+  "name" : "BankAccount::Validator::UK",
+  "perl" : "6.c",
+  "provides" : {
+    "BankAccount::Validator::UK" : "lib/BankAccount/Validator/UK.pm6",
+    "BankAccount::Validator::UK::Rule" : "lib/BankAccount/Validator/UK/Rule.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "https://github.com/manwar/p6-BankAccount-Validator-UK",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
